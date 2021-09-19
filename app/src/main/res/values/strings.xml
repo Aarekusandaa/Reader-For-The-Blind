@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">READER FOR THE BLIND</string>
+    <string name="readText">NO TEXT HERE</string>
+    <string name="ComeBackBtn">COME BACK</string>
+    <string name="PlayAgainBtn">PLAY AGAIN</string>
+    <string name="picture">GET PICTURE</string>
+    <string name="settings">SETTINGS</string>
+    <string name="sound_lvl_text">SOUND PITCH</string>
+    <string name="sound_txt">SOUND</string>
+    <string name="chip_male">MALE</string>
+    <string name="chip_female">FEMALE</string>
+    <string name="language_txt">LANGUAGE</string>
+    <string name="radio_button_one">ENGLISH</string>
+    <string name="radio_button_three">GERMAN</string>
+    <string name="sound_speed_text">SOUND SPEED</string>
+</resources>
